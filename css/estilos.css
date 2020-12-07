@@ -1,7 +1,8 @@
 .foto-perfil{
+
     height: 20%;
     width: 20%;
-    max-width: 100%;
+    max-width: 50%;
     border-radius: 50%;
 }
 p{
