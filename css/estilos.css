@@ -1,17 +1,20 @@
 .foto-perfil{
-    height: 25%;
-    width: 25%;
+    height: 20%;
+    width: 20%;
     max-width: 100%;
     border-radius: 50%;
 }
 p{
     font-family: Lato, 'Helvetica Neue', Arial, Helvetica, sans-serif;
     color:black;
+    
 }
 
 .jumbotron{
     margin-bottom: 0%;
 }
+
+
 
 .textoFooter {
     background-color: #F4F4F4;
