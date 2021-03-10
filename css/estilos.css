@@ -27,4 +27,10 @@ html{
     scroll-behavior: smooth;
 }
 
+.foto-Certificado{
 
+    height: 20%;
+    width: 20%;
+    max-width: 50%;
+    
+}
